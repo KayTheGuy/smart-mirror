@@ -1,0 +1,3 @@
+[submodule "magic-mirror-modules"]
+	path = magic-mirror-modules
+	url = https://github.com/kayhandehghani/magic-mirror-modules.git
