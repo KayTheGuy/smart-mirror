@@ -1,3 +1,6 @@
 [submodule "magic-mirror-modules"]
 	path = magic-mirror-modules
 	url = https://github.com/kayhandehghani/magic-mirror-modules.git
+[submodule "smart-mirror-admin-app"]
+	path = smart-mirror-admin-app
+	url = https://github.com/kayhandehghani/smart-mirror-admin-app.git
